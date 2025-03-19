@@ -1,0 +1,10 @@
+.DS_Store
+myenv/
+data/
+Workspace/Ngram Counts.txt
+Workspace/__pycache__/
+Workspace/__pycache__/*.pyc
+deliverables/
+Workspace/nltk_data/
+Workspace/Wordnet.zip
+Workspace/Ngram Counts.txt.gz
